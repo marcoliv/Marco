@@ -1,0 +1,36 @@
+body {
+    width:960px;
+    margin: auto;
+}
+
+#Titulo {
+    font-family: monospace;
+}
+
+p {
+    font-family: sans-serif;
+}
+
+a:hover {
+    color: green;
+}
+
+a {
+    color: red;
+}
+
+#link1 {
+    color: yellow;
+}
+
+#link2 {
+    color: aqua;
+}
+
+#link3 {
+    color: black;
+}
+
+#link1:hover, #link2:hover, #link3:hover {
+    color: green;
+}
